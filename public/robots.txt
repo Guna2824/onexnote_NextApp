@@ -1,0 +1,11 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /private/
+
+# Host
+Host: https://onexnote.com/
+
+# Sitemaps
+Sitemap: https://onexnote.com/sitemap.xml
+Sitemap: https://onexnote.com//sitemap.xml
